@@ -23,31 +23,14 @@ This repository is a pytorch implementation for the following paper accepted in 
 - sentence_transformers=2.0.0-py3.8
 - scipy-1.7.1
 
-# Fine-tuned Models
-Download the models from *. Place the models in the models folder. 
+# Models
 
 # Dataset
 
 Required datasets are placed in the data folder. For new dataset place them in the following manner:
 
-```bash
-|flabsa
-|--- data
-|    |--- rest-14
-|    |    |--- dataset.txt
-|    |    |--- labels-cat.txt
-|    |    |--- labels-pol.txt
-|    |    |--- classes-cat.txt
-|    |    |--- classes-pol.txt
-|--- models (models: fine-tuned, updatable)
-|    |--- model-bert-uncased-rest-train-80k
-|--- outputs (results, automatically build)
-|
-```
-
 # Run
-Run ./run.sh in the command line.
-You should edit run.sh for choosing different domains, datasets, algorithms.
+
 
 ## Citation
 NA
