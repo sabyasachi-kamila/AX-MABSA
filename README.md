@@ -27,7 +27,7 @@ This repository is a pytorch implementation for the following paper accepted in 
 
 # Dataset
 
-Required datasets are placed in the data folder. For new dataset place them in the following manner:
+Required datasets are placed in the data folder.
 
 # Run
 
