@@ -2,7 +2,7 @@
 
 #### This repository is a pytorch implementation of the following paper accepted in EMNLP 2022 (main):
 
-#### AX-MABSA: A Framework for Extremely Weakly Supervised Multi-label Aspect Based Sentiment Analysis
+#### [AX-MABSA: A Framework for Extremely Weakly Supervised Multi-label Aspect Based Sentiment Analysis]
 
 Authors: Sabyasachi Kamila, Walid Magdy, Sourav Dutta and MingXue Wang
 
