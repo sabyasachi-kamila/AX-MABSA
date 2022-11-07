@@ -1,13 +1,10 @@
 # AX-MABSA
 
-This repository is a pytorch implementation of the following paper accepted in #### EMNLP 2022 (main):
+#### This repository is a pytorch implementation of the following paper accepted in EMNLP 2022 (main):
 
-#### [AX-MABSA: A Framework for Extremely Weakly Supervised Multi-label Aspect Based Sentiment Analysis]
+#### AX-MABSA: A Framework for Extremely Weakly Supervised Multi-label Aspect Based Sentiment Analysis
 
-[Sabyasachi Kamila], 
-[Walid Magdy], 
-[Sourav Dutta], 
-[MingXue Wang]
+Authors: Sabyasachi Kamila, Walid Magdy, Sourav Dutta and MingXue Wang
 
 ## Requirements
 
@@ -27,10 +24,6 @@ This repository is a pytorch implementation of the following paper accepted in #
 
 # Dataset
 
-Required datasets are placed in the data folder.
-
 # Run
 
-
 ## Citation
-NA
